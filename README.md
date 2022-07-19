@@ -1,7 +1,7 @@
 Hi 👋 My name is Ilham Najib
 ============================
 
-Data Geeks
+Data Enthusiast
 ----------
 
 I'm preparing myself for a new ventures on my career life, currently in the oil & gas industries.
