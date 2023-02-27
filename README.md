@@ -6,23 +6,26 @@ Data Enthusiast
 
 I'm preparing myself for a new ventures on my career life, currently in the oil & gas industries.
 
-* 🌍  I'm based in Jakarta
-* 🧠  I'm learning Data Manipulation & Modelling
-* 🤝  I'm open to collaborating on Data Analytics, Data Manipulation, Data Cleansing, and backend related Python language frameworks
+* 🌍  I'm based in The Netherlands
+* 🧠  I'm learning Data Analysis & Manipulation, related to my background as Quantitative Marketing Research
+* 🤝  I'm open to collaborating on Data Analytics, Data Manipulation, Data Cleansing, and backend related SQL and Python language frameworks
 
 ### Skills
 
 <p align="left">
-<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
+<a href="https://www.r-project.org/" target="_blank" rel="noreferrer"><img src="https://thelogofinder.com/wp-content/uploads/2022/06/R_programming_language.svg" width="36" height="36" alt="R" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
+<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
 <a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored.svg" width="36" height="36" alt="Photoshop" /></a>
 </p>
 
 
 ### Socials
 
-<p align="left"> <a href="https://www.github.com/ilhamnjb" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/ilhamnajibid/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
+<p align="left">
+<a href="https://www.github.com/ilhamnjb" target="_blank" rel="noreferrer"><img src="https://icons-for-free.com/iconfiles/svg/0/coding+development+github+programming+social+icon-1320086085448562008.svg" width="32" height="32" /></a>
+<a href="https://www.linkedin.com/in/ilhamnajibid/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
 
 ### Badges
 
